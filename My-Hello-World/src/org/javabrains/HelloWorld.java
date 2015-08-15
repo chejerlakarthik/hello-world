@@ -4,6 +4,7 @@
 package org.javabrains;
 
 /**
+ * This class contains a simple main method to display few details.
  * @author Yashoda
  *
  */
