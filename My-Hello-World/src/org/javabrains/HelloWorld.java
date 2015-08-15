@@ -23,6 +23,7 @@ public class HelloWorld {
 		}
 		else
 		{
+			//Displays the first argument passed from command line
 			System.out.println("The developer name is " + args[0]);
 		}
 	}
